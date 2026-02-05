@@ -1,0 +1,11 @@
+App,Category,Rating,Reviews,Size,Installs,Type,Price,Content Rating
+PhotoEditor,PHOTOGRAPHY,4.5,120000,25M,1000000+,Free,0,Everyone
+FitLife,HEALTH_AND_FITNESS,4.3,85000,30M,500000+,Free,0,Everyone
+EduLearn,EDUCATION,4.6,54000,20M,100000+,Free,0,Everyone
+FinanceTrack,FINANCE,4.2,45000,18M,100000+,Free,0,Everyone
+MusicStream,MUSIC_AND_AUDIO,4.4,200000,28M,5000000+,Free,0,Teen
+ShopEasy,SHOPPING,4.1,110000,22M,1000000+,Free,0,Everyone
+GameZone,GAME,4.5,900000,40M,10000000+,Free,0,Teen
+TravelMate,TRAVEL_AND_LOCAL,4.3,67000,26M,500000+,Free,0,Everyone
+FoodOrder,FOOD_AND_DRINK,4.0,150000,24M,1000000+,Free,0,Everyone
+TaskPro,PRODUCTIVITY,4.6,72000,15M,500000+,Free,0,Everyone
